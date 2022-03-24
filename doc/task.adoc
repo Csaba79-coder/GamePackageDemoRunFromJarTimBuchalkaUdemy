@@ -1,0 +1,6 @@
+Created a new project, where I need to import jar to run the project!
+
+file -> project structures -> libraries -> JAVA
+
+image::image-2022-03-24-14-27-20-023.png[]
+
